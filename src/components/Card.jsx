@@ -53,7 +53,7 @@ export default function Card({ log, onEdit, onDelete, onViewImage }) {
       )}
 
       <div className="bg-amber-100/10 border-l-4 border-amber-300/70 p-3 mb-4 rounded">
-         <p className="text-sm text-amber-50 whitespace-pre-wrap text-left">
+         <p className="text-sm text-black whitespace-pre-wrap text-left">
         💬 {log.comment || "（没写点评）"}
           </p>
        </div>
