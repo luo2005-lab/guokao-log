@@ -49,6 +49,7 @@ export const defaultLogs = [
   comment: "第一次没有起到监督作用，┭┮﹏┭┮",
   snarkIndex: 35,
   tags: ["真题", "国奖"],
+  images: [],
 },
 {
   id: 6,
